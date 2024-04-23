@@ -14,7 +14,7 @@ interface TabItemProps {
 export function TabItem({ description, route, value, isSelected = false }: TabItemProps) {
     const router = useRouter()
     return (
-        <Tab.Trigger value={value} className='relative px-1 pb-4 text-sm font-medium text-gray-950 hover:text-yellow-600 data-[state=active]:text-yellow-600' onClick={() => router.push(route)}>
+        <Tab.Trigger value={value} className='relative px-1 pb-4 text-sm font-medium text-gray-950 hover:text-emerald-600 data-[state=active]:text-emerald-600' onClick={() => router.push(route)}>
             <span>
                 {description}
             </span>
@@ -22,7 +22,7 @@ export function TabItem({ description, route, value, isSelected = false }: TabIt
                 isSelected && (
                     <motion.div
                         layoutId='activeTab'
-                        className='absolute -bottom-px right-0 left-0 h-px bg-yellow-600' />
+                        className='absolute -bottom-px right-0 left-0 h-px bg-emerald-600' />
                 )
             }
         </Tab.Trigger>

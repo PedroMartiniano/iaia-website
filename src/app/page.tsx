@@ -1,5 +1,4 @@
-import { Contact } from "@/Components/Home/Contact";
-import { AboutMe } from "@/Components/Home/AboutMe";
+import { AboutMe } from "@/Components/Home/AboutHer";
 import { LandingPage } from "@/Components/Home/LandingPage";
 import { Footer } from "@/Components/Footer";
 
@@ -10,11 +9,8 @@ export default function Home() {
         <LandingPage />
       </div>
 
-      <div id="about-me">
+      <div id="about-her">
         <AboutMe />
-      </div>
-      <div id='contact'>
-        <Contact />
       </div>
 
       <div>

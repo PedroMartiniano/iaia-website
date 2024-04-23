@@ -13,9 +13,9 @@ const button = tv({
             ghost:
                 'rounded-md px-2 hover:bg-zinc-50 shadow-none hover:brightness-90',
             primary:
-                'bg-yellow-600 text-white hover:bg-yellow-500',
+                'bg-emerald-600 text-white hover:bg-emerald-500',
             outline:
-                'border-2 border border-gray-950 hover:brightness-90 bg-gray-200'
+                'border-2 text-green-950 border border-green-950 hover:brightness-90 bg-green-100'
         }
     },
     defaultVariants: {

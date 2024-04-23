@@ -8,22 +8,19 @@ export function LandingPage() {
     const router = useRouter()
 
     return (
-        <div className="flex flex-col gap-6 pt-24 lg:grid lg:grid-cols-2 justify-center items-center h-screen">
+        <div className="flex flex-col gap-6 pt-20 lg:grid lg:grid-cols-2 justify-center items-center h-screen">
             <div className="hidden lg:flex justify-center">
-                <img src="/hacker.svg" alt="" className="w-2/3 mb-4" />
+                <img src="/iaia-2.jpeg" alt="" className="w-3/5 mb-4 rounded-full border-2 border-green-800" />
             </div>
             <div className="flex flex-col gap-6">
-                <h1 className="font-sans font-extrabold text-3xl self-start">Olá, meu nome é <span className="text-yellow-600">Pedro Paulino Martiniano</span></h1>
-                <h2 className="font-sans font-extrabold text-2xl self-start text-yellow-600">{`{ `}Desenvolvedor BackEnd{` }`}</h2>
+                <h1 className="font-sans font-extrabold text-3xl self-start">Olá, essa é uma homenagem feita para <span className="text-emerald-600">Mariah Lemos Silva Faleiros</span></h1>
+                <h2 className="font-sans font-extrabold text-2xl self-start text-emerald-600">A menina mais incrível desse mundo!</h2>
                 <p className="text-sm text-justify">
-                    Seja muito bem vindo ao meu portfólio! Aqui você descobrirá um pouco sobre minhas habilidades, tecnologias que trabalho e projetos feitos por mim até o momento.
-                </p>
-                <p className="text-sm text-justify">
-                    Sou uma pessoa que busca estar em constante evolução e que é apaixado por tecnologia! Minha missão é desenvolver softwares seguros, eficientes e escaláveis, que sejam de grande utilidade para a sociedade.
+                    Estou aqui para contar um pouquinho sobre a iaiá. Ela é uma pessoa extremamente especial para mim e que merece todo o amor e carinho do mundo. Espero que você goste dessa homenagem e que ela te faça ter uma noção do quanto ela é importante!
                 </p>
                 <div className="flex flex-col gap-6 lg:flex-row">
-                    <Button variant="outline" onClick={() => router.push('/#about-me')}>Sobre Mim</Button>
-                    <Button variant="primary" onClick={() => router.push('/projects')}>Meus Projetos</Button>
+                    <Button variant="outline" onClick={() => router.push('/#about-her')}>Sobre Ela</Button>
+                    <Button variant="primary" onClick={() => router.push('/galery')}>Nossa Galeria</Button>
                 </div>
             </div>
         </div>
