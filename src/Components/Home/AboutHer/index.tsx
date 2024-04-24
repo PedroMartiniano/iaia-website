@@ -5,7 +5,7 @@ import { Github, Instagram, Linkedin, Mail } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
-export function AboutMe() {
+export function AboutHer() {
     const router = useRouter()
 
     return (

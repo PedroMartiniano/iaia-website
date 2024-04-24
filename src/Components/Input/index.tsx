@@ -34,9 +34,9 @@ const Input: React.FC<InputProps> = ({
                 pb-1
                 w-full
                 text-md
-                bg-gray-200
+                bg-green-50
                 border
-                border-gray-950
+                border-green-950
                 appearance-none
                 focus:outline-none
                 focus:ring-0

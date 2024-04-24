@@ -1,4 +1,4 @@
-import { AboutMe } from "@/Components/Home/AboutHer";
+import { AboutHer } from "@/Components/Home/AboutHer";
 import { LandingPage } from "@/Components/Home/LandingPage";
 import { Footer } from "@/Components/Footer";
 
@@ -10,7 +10,7 @@ export default function Home() {
       </div>
 
       <div id="about-her">
-        <AboutMe />
+        <AboutHer />
       </div>
 
       <div>

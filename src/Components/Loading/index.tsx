@@ -8,7 +8,7 @@ export function Loading() {
 
     if (isLoading) {
         return (
-            <div className="fixed inset-0 z-50 flex items-center justify-center rounded-lg bg-gray-300 cursor-pointer p-1 opacity-50">
+            <div className="fixed inset-0 z-50 flex items-center justify-center rounded-lg bg-green-200 cursor-pointer p-1 opacity-50">
                 <Loader className="animate-spin text-yellow-600 text-9xl" />
             </div>
         )

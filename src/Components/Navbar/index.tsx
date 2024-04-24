@@ -22,7 +22,7 @@ export function Navbar() {
                         </button>
                     </Collapsible.Trigger>
                     <Collapsible.Content forceMount asChild className="absolute top-16 right-1 shadow-lg border border-green-100 px-10 data-[state=closed]:hidden data-[state=closed]:animate-slideUpAndFade data-[state=open]:animate-slideDownAndFade">
-                        <div className="flex flex-1 flex-col gap-6 bg-green-100 h-screen w-80">
+                        <div className="flex flex-1 flex-col gap-6 bg-green-50 h-screen w-80">
                             <Tabs />
                         </div>
                     </Collapsible.Content>

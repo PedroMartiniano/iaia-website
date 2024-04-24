@@ -15,7 +15,7 @@ export default function Projects() {
                     <h3 className="text-md font-sans font-semibold italic">28/01/2023</h3>
                 </div>
             </div>
-            <div className="border-b-2 border-gray-800 mx-10 lg:mx-20 w-auto" />
+            <div className="border-b-2 border-green-800 mx-10 lg:mx-20 w-auto" />
 
         </div>
     )

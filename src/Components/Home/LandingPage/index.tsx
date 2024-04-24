@@ -1,7 +1,6 @@
 'use client'
 
 import { Button } from "@/Components/Button";
-import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useRouter } from "next/navigation";
 
 export function LandingPage() {
