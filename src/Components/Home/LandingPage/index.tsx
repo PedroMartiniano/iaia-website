@@ -15,7 +15,7 @@ export function LandingPage() {
                 <h1 className="font-sans font-extrabold text-3xl self-start">Olá, essa é uma homenagem feita para <span className="text-emerald-600">Mariah Lemos Silva Faleiros</span></h1>
                 <h2 className="font-sans font-extrabold text-2xl self-start text-emerald-600">A menina mais incrível desse mundo!</h2>
                 <p className="text-sm text-justify">
-                    Estou aqui para contar um pouquinho sobre a iaiá. Ela é uma pessoa extremamente especial para mim e que merece todo o amor e carinho do mundo. Espero que você goste dessa homenagem e que ela te faça ter uma noção do quanto ela é importante!
+                    Estou aqui para contar um pouquinho sobre a iaiá. Ela é uma pessoa extremamente especial para mim e que merece todo o amor e carinho do mundo. Espero que essa homenagem encha um pouco seu coração de amor, para você saber o que sinto sempre que estou com ela, aproveite!
                 </p>
                 <div className="flex flex-col gap-6 lg:flex-row">
                     <Button variant="outline" onClick={() => router.push('/#about-her')}>Sobre Ela</Button>
