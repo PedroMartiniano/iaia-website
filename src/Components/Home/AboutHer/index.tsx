@@ -34,19 +34,18 @@ export function AboutHer() {
                         <div className="pl-4">
                             <div className="relative right-6 w-4 h-4 bg-green-100 border-2 border-green-950 rounded-full" />
                             <div className="relative bottom-5">
-                                <h2 className="font-semibold text-lg font-sans">Nós</h2>
-                                <p className="text-sm text-justify">Gostaria de tirar um paragrafa para falar um pouco sobre nós. Eu a conheci no dia 15/10/2022, desde então passamos por muita coisa, muitos altos e baixos que por incrível que pareça, no final sempre nos fizeram ficarmos cada vez mais juntos. Desde o momento que a conheci, eu sabia que ela era diferente, só não sabia que significaria tanto para mim quanto ela significa, nunca fui muito de demonstrar sentimentos, mas com ela sempre foi uma coisa tão natural que nem percebia, acho que é porque as energias combinaram sabe? Mas enfim, só tenho a agradecer por esse 1 ano e meio que eu vivi até o momento ao lado dela, com certeza mudou muito </p>
+                                <h2 className="font-semibold text-lg font-sans">Mais um pouquinho sobre ela</h2>
+                                <p className="text-sm text-justify">Muitas pessoas não sabem, mas ela é a garota mais esforçada que eu já vi, quando ela quer algo, ela corre atrás de verdade, e não desanima tão fácil. Desde que a conheci, pude ver de perto também o quanto ela faz tudo com amor, é uma menina que ama fazer presentes a mão, pois é uma das maneiras que mais sabe demonstrar seu sentimento para as pessoas, desde cartinhas das mais variadas formas, até artes em papel, mas enfim, quem nunca ganhou um presentinho desses dela né? Ela é também uma garota que ama flores, que sonha em morar na Itália e ter sua floricultura, ou somente um jardim para cuidar em sua casa. A Mariah é coisa garota com milhares de detalhes incríveis, detalhes esses que eu talvez nunca consiga descrever nem 1% aqui, não importa o quanto eu tente, porém espero ter conseguido dar um "gostinho" do quanto sou sortudo por ter ela e do quanto ela é realmente maravilhosa.</p>
                             </div>
                         </div>
 
                         <div className="pl-4">
                             <div className="relative right-6 w-4 h-4 bg-green-100 border-2 border-green-950 rounded-full" />
                             <div className="relative bottom-5">
-                                <h2 className="font-semibold text-lg font-sans">Lorem</h2>
-                                <p className="text-sm text-justify">Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam illo labore hic necessitatibus unde itaque porro rerum animi, quibusdam cumque quisquam ipsa, placeat reiciendis ratione aspernatur quod nostrum dolorem praesentium. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt reiciendis perspiciatis saepe dolor nemo nam impedit dolores soluta quae. Aliquid accusamus quo totam, ducimus deserunt similique ex explicabo libero repudiandae.</p>
+                                <h2 className="font-semibold text-lg font-sans">Nós</h2>
+                                <p className="text-sm text-justify">Gostaria de tirar um paragrafa para falar um pouco sobre nós. Eu a conheci no dia 15 de outubro de 2022, desde então passamos por muita coisa, muitos altos e baixos que por incrível que pareça, no final sempre nos fizeram ficarmos cada vez mais juntos. Desde o momento que a conheci, eu sabia que ela era diferente, só não sabia que significaria tanto para mim quanto ela significa, nunca fui muito de demonstrar sentimentos, mas com ela sempre foi uma coisa tão natural que nem percebia, na verdade, com ela sempre foi tudo natural, desde o início, acho que é porque as energias combinaram sabe? Só tenho a agradecer por esse 1 ano e meio que eu vivi até o momento ao lado dela.</p>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
