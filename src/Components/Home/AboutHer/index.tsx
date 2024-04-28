@@ -10,7 +10,7 @@ export function AboutHer() {
             <h1 className="font-bold font-sans text-2xl lg:text-3xl mb-8 lg:ml-10">Sobre Ela</h1>
             <div className="flex flex-col gap-6 lg:grid lg:grid-cols-2 justify-start items-start min-h-screen p-5">
                 <div className="flex flex-col w-full justify-center items-center">
-                    <img src="/iaia.jpeg" alt="foto" className="rounded-full w-48 h-48 lg:w-72 lg:h-72 border-2 border-green-800 shadow-xl" />
+                    <img src="/iaia-2.jpeg" alt="foto" className="rounded-full w-48 h-48 lg:w-72 lg:h-72 border-2 border-green-800 shadow-xl" />
                     <div className="flex w-full justify-center items-center gap-1 mt-5">
                         <Link href={'https://www.instagram.com/mariahlemos_/'} passHref={true} target="_blanck">
                             <Button variant="ghost" className="w-13 h-13 cursor-pointer rounded-full">
@@ -35,7 +35,7 @@ export function AboutHer() {
                             <div className="relative right-6 w-4 h-4 bg-green-100 border-2 border-green-950 rounded-full" />
                             <div className="relative bottom-5">
                                 <h2 className="font-semibold text-lg font-sans">Mais um pouquinho sobre ela</h2>
-                                <p className="text-sm text-justify">Muitas pessoas não sabem, mas ela é a garota mais esforçada que eu já vi, quando ela quer algo, ela corre atrás de verdade, e não desanima tão fácil. Desde que a conheci, pude ver de perto também o quanto ela faz tudo com amor, é uma menina que ama fazer presentes a mão, pois é uma das maneiras que mais sabe demonstrar seu sentimento para as pessoas, desde cartinhas das mais variadas formas, até artes em papel, mas enfim, quem nunca ganhou um presentinho desses dela né? Ela é também uma garota que ama flores, que sonha em morar na Itália e ter sua floricultura, ou somente um jardim para cuidar em sua casa. A Mariah é coisa garota com milhares de detalhes incríveis, detalhes esses que eu talvez nunca consiga descrever nem 1% aqui, não importa o quanto eu tente, porém espero ter conseguido dar um "gostinho" do quanto sou sortudo por ter ela e do quanto ela é realmente maravilhosa.</p>
+                                <p className="text-sm text-justify">Muitas pessoas não sabem, mas ela é a garota mais esforçada que eu já vi, quando ela quer algo, ela corre atrás de verdade, e não desanima tão fácil. Desde que a conheci, pude ver de perto também o quanto ela faz tudo com amor, é uma menina que ama fazer presentes a mão, pois é uma das maneiras que mais sabe demonstrar seu sentimento para as pessoas, desde cartinhas das mais variadas formas, até artes em papel, mas enfim, quem nunca ganhou um presentinho desses dela né? Ela é também uma garota que ama flores, que sonha em morar na Itália e ter sua floricultura, ou somente um jardim para cuidar em sua casa. A Mariah é coisa garota com milhares de detalhes incríveis, detalhes esses que eu talvez nunca consiga descrever nem 1% aqui, não importa o quanto eu tente, porém espero ter conseguido dar um {'"'}gostinho{'"'} do quanto sou sortudo por ter ela e do quanto ela é realmente maravilhosa.</p>
                             </div>
                         </div>
 
@@ -43,7 +43,7 @@ export function AboutHer() {
                             <div className="relative right-6 w-4 h-4 bg-green-100 border-2 border-green-950 rounded-full" />
                             <div className="relative bottom-5">
                                 <h2 className="font-semibold text-lg font-sans">Nós</h2>
-                                <p className="text-sm text-justify">Gostaria de tirar um paragrafa para falar um pouco sobre nós. Eu a conheci no dia 15 de outubro de 2022, desde então passamos por muita coisa, muitos altos e baixos que por incrível que pareça, no final sempre nos fizeram ficarmos cada vez mais juntos. Desde o momento que a conheci, eu sabia que ela era diferente, só não sabia que significaria tanto para mim quanto ela significa, nunca fui muito de demonstrar sentimentos, mas com ela sempre foi uma coisa tão natural que nem percebia, na verdade, com ela sempre foi tudo natural, desde o início, acho que é porque as energias combinaram sabe? Só tenho a agradecer por esse 1 ano e meio que eu vivi até o momento ao lado dela.</p>
+                                <p className="text-sm text-justify">Gostaria de tirar um paragrafa para falar um pouco sobre nós. Eu a conheci no dia 15 de outubro de 2022, desde então passamos por muita coisa, muitos altos e baixos que por incrível que pareça, no final sempre nos fizeram ficarmos cada vez mais juntos. Desde o momento que a conheci, eu sabia que ela era diferente, só não sabia que significaria tanto para mim quanto ela significa, nunca fui muito de demonstrar sentimentos, mas com ela sempre foi uma coisa tão natural que nem percebia, na verdade, com ela sempre foi tudo natural, desde o início, acho que é porque as energias combinaram sabe? Só tenho a agradecer por esse 1 ano e meio que eu vivi até o momento ao lado dela, pois também tenho certeza que sou uma pessoa muito melhor desde que a conheci.</p>
                             </div>
                         </div>
                     </div>

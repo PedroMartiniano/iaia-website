@@ -29,18 +29,18 @@ export default function Projects() {
                 <div className="flex flex-col w-full justify-center items-center pb-20">
                     <img src="/nos-1.jpeg" alt="foto" className="p-5 border-2 sm:w-[45%] border-green-950 rounded-md shadow-inner hover:brightness-90" />
                     <div className="flex flex-col sm:px-14 pt-8 gap-5 lg:gap-5">
-                        <h2 className="text-xl font-sans font-bold text-emerald-600 text-center">Nossa Primeira Foto Postada</h2>
-                        <p className="text-md lg:text-md text-justify">Nossa primeira foto que postamos no instagram, você tinha acabado de voltar de uma viagem de mais de um mês e era o dia do aniversário da sua mãe, foi também o dia que conheci grande parte da sua família, amei muito estar presente com você nesse momento.</p>
-                        <h3 className="text-md text-emerald-950 font-sans font-semibold italic text-right">28/01/2023</h3>
+                        <h2 className="text-xl font-sans font-bold text-emerald-600 text-center">Lorem ipsum dolor sit amet</h2>
+                        <p className="text-md lg:text-md text-justify">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia dolorem quibusdam minima praesentium mollitia iste magni, modi aliquid tempore consequuntur sequi suscipit assumenda alias, delectus eaque quae blanditiis autem laudantium.</p>
+                        <h3 className="text-md text-emerald-950 font-sans font-semibold italic text-right">dd/mm/yyyy</h3>
                     </div>
                 </div>
 
                 <div className="flex flex-col w-full justify-center items-center pb-20">
                     <img src="/nos-1.jpeg" alt="foto" className="p-5 border-2 sm:w-[45%] border-green-950 rounded-md shadow-inner hover:brightness-90" />
                     <div className="flex flex-col sm:px-14 pt-8 gap-5 lg:gap-5">
-                        <h2 className="text-xl font-sans font-bold text-emerald-600 text-center">Nossa Primeira Foto Postada</h2>
-                        <p className="text-md lg:text-md text-justify">Nossa primeira foto que postamos no instagram, você tinha acabado de voltar de uma viagem de mais de um mês e era o dia do aniversário da sua mãe, foi também o dia que conheci grande parte da sua família, amei muito estar presente com você nesse momento.</p>
-                        <h3 className="text-md text-emerald-950 font-sans font-semibold italic text-right">28/01/2023</h3>
+                        <h2 className="text-xl font-sans font-bold text-emerald-600 text-center">Lorem ipsum dolor sit amet</h2>
+                        <p className="text-md lg:text-md text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea libero quod alias, quas iusto reiciendis non, molestiae a aliquid est commodi id ex molestias corporis totam. Magni quisquam esse corporis. delectus eaque quae blanditiis autem laudantium.</p>
+                        <h3 className="text-md text-emerald-950 font-sans font-semibold italic text-right">dd/mm/yyyy</h3>
                     </div>
                 </div>
 

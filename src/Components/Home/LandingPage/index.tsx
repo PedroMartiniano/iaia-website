@@ -9,7 +9,7 @@ export function LandingPage() {
     return (
         <div className="flex flex-col gap-6 pt-20 lg:grid lg:grid-cols-2 justify-center items-center h-screen">
             <div className="hidden lg:flex justify-center">
-                <img src="/iaia-2.jpeg" alt="" className="w-3/5 mb-4 rounded-full border-2 border-green-800" />
+                <img src="/iaia.jpeg" alt="" className="w-3/5 mb-4 rounded-full border-2 border-green-800" />
             </div>
             <div className="flex flex-col gap-6">
                 <h1 className="font-sans font-extrabold text-3xl self-start">Olá, essa é uma homenagem feita para <span className="text-emerald-600">Mariah Lemos Silva Faleiros</span></h1>
