@@ -75,7 +75,7 @@ export default function Projects() {
                     <img src="/nos-8.jpeg" alt="foto" className="p-5 border-2 sm:w-[45%] border-green-950 rounded-md shadow-inner hover:brightness-90" />
                     <div className="flex flex-col sm:px-14 pt-8 gap-5 lg:gap-5">
                         <h2 className="text-xl font-sans font-bold text-emerald-600 text-center">Festa Junina</h2>
-                        <p className="text-md lg:text-md text-justify">Essa não é uma foto nossa, porém uma foto que tirei de você, pois eu estava te achando extremamente fofa e linda. Esse foi o dia da festa junina da Vila Hípica, seu condomínio, e você me fez até dançar foró com você, algo que eu nunca imaginaria fazer kkkk.</p>
+                        <p className="text-md lg:text-md text-justify">Essa não é uma foto nossa, mas é uma foto que tirei de você, pois eu estava te achando extremamente fofa e linda. Esse foi o dia da festa junina da Vila Hípica, seu condomínio, e você me fez até dançar foró com você, algo que eu nunca imaginaria fazer kkkk.</p>
                         <h3 className="text-md text-emerald-950 font-sans font-semibold italic text-right">30/06/2023</h3>
                     </div>
                 </div>
